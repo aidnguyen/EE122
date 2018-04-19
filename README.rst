@@ -12,7 +12,7 @@ Requirements
 Code are written in Python
 First, run::
 
-    pip install requirements.txt
+    pip install -r requirements.txt
 
 
 Create a Policy for AWS IoT Certificate
